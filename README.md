@@ -111,7 +111,9 @@ MIT License. Смотрите файл [LICENSE](LICENSE) для подробн�
 
 ---
 
+[ИНСТРУКЦИЯ ПО ИСПОЛЬЗОВАНИЮ АДМИНИСТРАТИВНОГО БОТА (v2.0).pdf](https://github.com/user-attachments/files/24241848/v2.0.pdf)
 
+---
 Вход в admin panel
 
 <img width="341" height="199" alt="Снимок экрана 2025-12-18 в 20 02 45" src="https://github.com/user-attachments/assets/070d0574-ab2d-4199-b8d8-30647521729a" />
