@@ -856,8 +856,6 @@ reply_markup=keyboards.kb_create)
 @dp.message(Command("info"))
 async def info(message:types.Message):
     await message.answer(f"""
-<i>Владелец: @egor47777</i>      
-
 ... ИНФОРМАЦИЯ О БОТЕ И ПРОЧЕЕ ...                         
 
 <i>bot created by <a href="https://t.me/code_misty">misty</a></i>
