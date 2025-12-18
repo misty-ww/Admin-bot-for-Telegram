@@ -113,12 +113,21 @@ MIT License. Смотрите файл [LICENSE](LICENSE) для подробн�
 
 
 Вход в admin panel
+
 <img width="341" height="199" alt="Снимок экрана 2025-12-18 в 20 02 45" src="https://github.com/user-attachments/assets/070d0574-ab2d-4199-b8d8-30647521729a" />
+
 Режим рассылки в канал
+
 <img width="521" height="532" alt="Снимок экрана 2025-12-18 в 20 02 56" src="https://github.com/user-attachments/assets/9c5bad81-4ec8-498f-8aa4-c1de44510521" />
+
 Режим рассылки в лс бота:
+
 <img width="666" height="510" alt="Снимок экрана 2025-12-18 в 20 03 04" src="https://github.com/user-attachments/assets/96ce1370-ae38-447e-8e8e-0246ab162fad" />
+
 Процесс создания файла
+
 <img width="632" height="774" alt="Снимок экрана 2025-12-18 в 20 03 54" src="https://github.com/user-attachments/assets/4e515d4c-c40e-4c94-ba03-2e462fde4601" />
+
 Результат при переходе по ссылке:
+
 <img width="625" height="183" alt="Снимок экрана 2025-12-18 в 20 04 07" src="https://github.com/user-attachments/assets/c53656fe-4871-4db6-b51c-5ef947fd6c1b" />
